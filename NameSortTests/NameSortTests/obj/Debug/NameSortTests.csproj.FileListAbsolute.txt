@@ -1,0 +1,7 @@
+c:\users\thomas\documents\visual studio 2013\Projects\NameSortTests\NameSortTests\obj\Debug\NameSortTests.csprojResolveAssemblyReference.cache
+c:\users\thomas\documents\visual studio 2013\Projects\NameSortTests\NameSortTests\bin\Debug\NameSortTests.dll
+c:\users\thomas\documents\visual studio 2013\Projects\NameSortTests\NameSortTests\bin\Debug\NameSortTests.pdb
+c:\users\thomas\documents\visual studio 2013\Projects\NameSortTests\NameSortTests\bin\Debug\NameSort.exe
+c:\users\thomas\documents\visual studio 2013\Projects\NameSortTests\NameSortTests\bin\Debug\NameSort.pdb
+c:\users\thomas\documents\visual studio 2013\Projects\NameSortTests\NameSortTests\obj\Debug\NameSortTests.dll
+c:\users\thomas\documents\visual studio 2013\Projects\NameSortTests\NameSortTests\obj\Debug\NameSortTests.pdb
